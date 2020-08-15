@@ -6,9 +6,14 @@
   </p>
 </p>
 
-#### About the Project
+## About the Project
 
 Simple GitHub Pages Website, you can check it out [here](https://lombardidaniel.github.io).
 The project is constantly updated.
 
 The color palette is inspired by the [Hyper Material Theme](https://hyper.is/store/hyper-material-theme)
+
+## Acknowledgements
+
+* [Atom](https://atom.io) <3
+* Hat tip to anyone whose code was used
